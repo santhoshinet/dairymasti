@@ -1,0 +1,11 @@
+C:\Users\Santhosh.PS\Documents\dairymasti\dairymasti\dairymasti\bin\Debug\netcoreapp2.0\dairymasti.deps.json
+C:\Users\Santhosh.PS\Documents\dairymasti\dairymasti\dairymasti\bin\Debug\netcoreapp2.0\dairymasti.runtimeconfig.json
+C:\Users\Santhosh.PS\Documents\dairymasti\dairymasti\dairymasti\bin\Debug\netcoreapp2.0\dairymasti.runtimeconfig.dev.json
+C:\Users\Santhosh.PS\Documents\dairymasti\dairymasti\dairymasti\bin\Debug\netcoreapp2.0\dairymasti.dll
+C:\Users\Santhosh.PS\Documents\dairymasti\dairymasti\dairymasti\bin\Debug\netcoreapp2.0\dairymasti.pdb
+C:\Users\Santhosh.PS\Documents\dairymasti\dairymasti\dairymasti\obj\Debug\netcoreapp2.0\dairymasti.csprojResolveAssemblyReference.cache
+C:\Users\Santhosh.PS\Documents\dairymasti\dairymasti\dairymasti\obj\Debug\netcoreapp2.0\dairymasti.csproj.CoreCompileInputs.cache
+C:\Users\Santhosh.PS\Documents\dairymasti\dairymasti\dairymasti\obj\Debug\netcoreapp2.0\dairymasti.AssemblyInfoInputs.cache
+C:\Users\Santhosh.PS\Documents\dairymasti\dairymasti\dairymasti\obj\Debug\netcoreapp2.0\dairymasti.AssemblyInfo.cs
+C:\Users\Santhosh.PS\Documents\dairymasti\dairymasti\dairymasti\obj\Debug\netcoreapp2.0\dairymasti.dll
+C:\Users\Santhosh.PS\Documents\dairymasti\dairymasti\dairymasti\obj\Debug\netcoreapp2.0\dairymasti.pdb
