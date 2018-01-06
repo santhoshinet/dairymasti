@@ -79,10 +79,6 @@ h6 {
     padding-bottom: 150px;
 }
 
-#navbarResponsive img {
-    height: 80px;
-    width: 80px;
-}
 
 #navbarResponsive ul {
     list-style: none;
@@ -94,8 +90,6 @@ h6 {
     letter-spacing: 0.5rem;
     font-weight: 800;
     color: #eee;
-    margin-top: 20px;
-    margin-left: 5px;
 }
 
 .contactus .address, .contactus h2, .contactus p, .contactus span {
@@ -109,19 +103,19 @@ h6 {
 .contactus h2 {
     font-size: 2.4rem;
     font-weight: 200;
-} 
-    
-    .contactus .address li {
-        margin: 10px;
+}
+
+.contactus .address li {
+    margin: 10px;
+}
+
+    .contactus .address li span:last-child {
+        margin-left: 10px;
     }
 
-        .contactus .address li span:last-child {
-            margin-left: 10px;
-        }
-
-        .contactus .address li i {
-            margin-right: 10px;
-        }
+    .contactus .address li i {
+        margin-right: 10px;
+    }
 
 .bg-black {
     color: #000;
@@ -144,4 +138,20 @@ h6 {
 .aboutdairymasti {
     font-size: 1.8rem;
     font-weight: 500;
+    margin-top: 40px;
 }
+
+.body-content .container-fluid {
+    padding-top: 20px;
+    /*background: url(../images/43829665-cow-flat-web-icon-or-sign-isolated-on-grey-background-collection-modern-trend-concept-design-style-v-Stock-Vector.jpg);*/
+    background: url(../images/59674050-vanilla-ice-cream-scoops-Stock-Photo.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+    
