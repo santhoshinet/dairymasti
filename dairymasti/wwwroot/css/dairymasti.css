@@ -48,7 +48,7 @@ h6 {
 
 #myCarousel img {
     width: 100%;
-    height: 650px;
+    height: 600px;
     margin-top: 40px;
 }
 
@@ -62,9 +62,14 @@ h6 {
     color: #eee;
 }
 
-    .bg-black .container .navbar p {
+    .bg-black .container-fluid .navbar p {
         margin-top: 20px;
         font-size: 1.5rem;
+    }
+
+    .bg-black .container-fluid {
+        padding: 0px;
+        border-radius:0;
     }
 
 .navbar-brand {
@@ -127,7 +132,7 @@ h6 {
 }
 
 .bg-black .contactus {
-    height: 400px;
+    height: 340px;
 }
 
 .thumbnail img {
@@ -154,4 +159,14 @@ h6 {
     background-size: cover;
 }
 
-    
+#myCarousel    {
+    margin-top:20px;
+}
+
+.nav-bottom{
+    position:relative;
+}
+
+.thumbnail{
+    min-height: 360px;
+}
